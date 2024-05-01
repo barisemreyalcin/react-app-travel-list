@@ -121,6 +121,12 @@ input {
   transform: translateY(2px);
 }
 
+input[type="checkbox"] {
+  height: 2rem;
+  width: 2rem;
+  accent-color: #e5771f;
+}
+
 /**********/
 /* FOOTER */
 /**********/
